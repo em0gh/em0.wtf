@@ -11,6 +11,9 @@ cd em0.wtf
 hugo
 ```
 
+## Deployment
+This website is currently being served with GitHub Pages (using GitHub Actions). See the associated workflow.
+
 That's all there is to it! A very quick static site, that still allows me to write in Markdown and not consider HTML when I just want to write!
 
 
