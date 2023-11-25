@@ -15,10 +15,10 @@ Please note that this site is basically brand new; so there's for sure going to 
 
 ## About me
 I'm a:
- * Blind server administrator (Linux; Debian-based usually) who enjoys doing IoT, Docker hosting of stuff etc.,
+ * Blind server administrator (Linux; Debian-based usually) who enjoys hosting many different services and learning about new stuff,
  * Programmer (Python and other basic scripting languages when brain power allows),
  * Musician (piano and drums),
- and much more!
+ * and much more!
 
 ## Thanks!
 Thanks for visiting my website! If you've got any suggestions, please feel free to contact me or check out the [source code for this site](https://github.com/em0gh/em0.wtf)!
