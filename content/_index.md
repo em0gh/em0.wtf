@@ -9,9 +9,9 @@ menu:
 
 
 # Welcome!
-I would like to welcome you to my website!
+Hello; I'm Emma! I would like to welcome you to my website!
 
-This is a staging site and will eventually replace [my main one](https://braillescreen.net/). However, this is being fixed live before your eyes to not be as annoying, hopefully something you can read etc. It will even be [open-source](https://github.com/braillescreen/braillescreen.net).
+Please note that this site is basically brand new; so there's for sure going to be a lack of content for a while!
 
 ## About me
 I'm a:
@@ -20,4 +20,5 @@ I'm a:
  * Musician (piano and drums),
  and much more!
 
-Please feel free to navigate around this site to check out stuff that's available. If you have any feedback feel free to submit an issue, PR, etc.
+## Thanks!
+Thanks for visiting my website! If you've got any suggestions, please feel free to contact me or check out the [source code for this site](https://github.com/em0gh/em0.wtf)!
