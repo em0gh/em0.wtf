@@ -10,5 +10,5 @@ Here are a few useful links to stuff elsewhere.
 
 * [GitHub](https://github.com/em0gh)
 * [Email](mailto:em@em0.wtf)
-* <a rel="me" href="https://eightpoint.app/@e"> Mastodon</a>
+* [Mastodon](https://eightpoint.app/@e)
 * (More stuff coming soon!)
