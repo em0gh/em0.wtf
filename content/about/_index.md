@@ -19,7 +19,7 @@ I've recently started my journey. Like many others, I had absolutely no idea I c
 But here I am!
 
 ## Progress so far?
-At the time of writing, I've only identified as Emma since November 17 (it's been a week!)! Here's what I know so far (keep in mind I will be constantly updating this section):
+I've identified as Emma since November 17, 2023! Here's what I know so far (keep in mind I will be updating this section sometimes):
 
 ### I have not been anywhere near as depressed as I once was.
 Like many others, I was very depressed and not happy where my life was going. I recently failed a Cisco networking course because I could not get myself to understand subnetting combined with serious burnout and... Nope! This sent me into months of depression and thinking I wasn't good enough among many, many other issues.
