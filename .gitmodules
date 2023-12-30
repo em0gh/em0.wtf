@@ -1,0 +1,3 @@
+[submodule "elemental"]
+	path = themes/elemental
+	url = https://github.com/lower-elements/elemental
